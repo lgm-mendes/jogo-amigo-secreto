@@ -1,7 +1,7 @@
 <h1>Jogo do amigo secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Desafio abordado para mim para aprendizado de novas tecnologias.</p>
+<p>Desafio para aprendizado de novas tecnologias.</p>
 
 ## 🚀 Tecnologias
 <div>
